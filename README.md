@@ -1,11 +1,5 @@
 ﻿# Facial Emotion Recognition Using Deep Learning (CNN)
 
-**Author:** Vishal Kumar Singh
-**Institution:** AlmaBetter — M.Sc. Data Science
-**Year:** 2026
-**Contribution:** Individual
-**GitHub:** https://github.com/CodesByVishal/Facial-Emotion-Recognition-Using-Deep-Learning
-
 ---
 
 ## Project Overview
